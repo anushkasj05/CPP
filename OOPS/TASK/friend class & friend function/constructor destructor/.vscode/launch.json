@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/anushkasudarshanjoshi/Documents/Coaching/OOPS/TASK/friend class & friend function/constructor destructor",
+      "program": "/Users/anushkasudarshanjoshi/Documents/Coaching/OOPS/TASK/friend class & friend function/constructor destructor/build/Debug/outDebug"
+    }
+  ]
+}

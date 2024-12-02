@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/anushkasudarshanjoshi/Documents/CYBROM/CPP/OOPS/oop''s problem/output/4'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003EF4, symSize: 0x34 }
+  - { offsetInCU: 0x39, offset: 0x39, size: 0x8, addend: 0x0, symName: __ZN7atmcard1cE, symObjAddr: 0x5600, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x2E06, offset: 0x2E06, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003EF4, symSize: 0x34 }
+  - { offsetInCU: 0x2E4A, offset: 0x2E4A, size: 0x8, addend: 0x0, symName: __ZN7atmcardC1Ev, symObjAddr: 0x34, symBinAddr: 0x100003F28, symSize: 0x2C }
+  - { offsetInCU: 0x2E72, offset: 0x2E72, size: 0x8, addend: 0x0, symName: __ZN7atmcardC2Ev, symObjAddr: 0x60, symBinAddr: 0x100003F54, symSize: 0x48 }
+...
